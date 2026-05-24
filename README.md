@@ -1,2 +1,4 @@
 # ApnaCollege-demo
-Im learning git ggithub from apa college
+Im learning git github from apa college
+
+Author- Sakshi
